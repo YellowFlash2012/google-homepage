@@ -8,3 +8,4 @@ First update. Looks way better thn the 1st iteration but the footer is giving me
 6/14/2021 figured out the icons and footer but the whole thing is not fitting properly in the vh
 
 6/16/2021 added dark/light theme toggle
+<a href="https://yellowflash2012.github.io/google-homepage/">Live preview</a>
